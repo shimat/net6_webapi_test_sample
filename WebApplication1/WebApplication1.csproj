@@ -11,9 +11,5 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
-    
-  <ItemGroup>
-    <!--<InternalsVisibleTo Include="WebApplication1.Tests" />-->
-  </ItemGroup>
 
 </Project>
